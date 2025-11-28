@@ -1,4 +1,4 @@
-name: Composite Action Demo
+name: 06-authoring-actions--01-composite-action
 on:
   workflow_dispatch:
 

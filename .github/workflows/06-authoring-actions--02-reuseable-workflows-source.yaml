@@ -1,4 +1,4 @@
-name: Reusable Workflow Source
+name: 06-authoring-actions--02-reuseable-workflows-source
 
 on:
   workflow_call:

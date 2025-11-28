@@ -1,4 +1,4 @@
-name: Artifacts
+name: 04-advanced-features--02-artifacts
 on:
   workflow_dispatch:
 

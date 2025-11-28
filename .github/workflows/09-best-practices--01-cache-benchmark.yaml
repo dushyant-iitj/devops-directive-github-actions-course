@@ -1,4 +1,4 @@
-name: Namespace Cache Volumes Benchmark
+name: 09-best-practices--01-cache-benchmark
 
 on:
   workflow_dispatch:

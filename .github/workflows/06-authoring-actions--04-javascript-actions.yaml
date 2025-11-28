@@ -1,4 +1,4 @@
-name: Javascript Actions
+name: 06-authoring-actions--04-javascript-actions
 on:
   workflow_dispatch:
 

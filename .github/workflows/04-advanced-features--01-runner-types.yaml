@@ -1,4 +1,4 @@
-name: Runner types
+name: 04-advanced-features--01-runner-types
 on:
   workflow_dispatch:
 

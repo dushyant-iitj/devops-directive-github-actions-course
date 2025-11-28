@@ -1,4 +1,4 @@
-name: Dynamic Matrix
+name: 04-advanced-features--07-dynamic-matrix
 on:
   workflow_dispatch:
     inputs:

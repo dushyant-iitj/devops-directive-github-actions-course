@@ -1,4 +1,4 @@
-name: Passing Variables Between jobs
+name: 03-core-features--06-passing-data
 on:
   workflow_dispatch:
 

@@ -1,4 +1,4 @@
-name: Third Party Auth
+name: 04-advanced-features--05-third-party-auth
 on:
   workflow_dispatch:
 

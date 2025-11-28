@@ -1,4 +1,4 @@
-name: Workflow Commands
+name: 04-advanced-features--08-workflow-commands
 
 on:
   workflow_dispatch:

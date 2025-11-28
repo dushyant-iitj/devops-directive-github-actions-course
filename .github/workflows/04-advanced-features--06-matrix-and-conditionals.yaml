@@ -1,4 +1,4 @@
-name: Matrix and Conditionals
+name: 04-advanced-features--06-matrix-and-conditionals
 
 on:
   workflow_dispatch:

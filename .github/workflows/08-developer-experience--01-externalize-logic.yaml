@@ -1,4 +1,4 @@
-name: Workflow Iteration (Externalize Logic)
+name: 08-developer-experience--01-externalize-logic
 
 on:
   workflow_dispatch:

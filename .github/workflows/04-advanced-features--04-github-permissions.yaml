@@ -1,4 +1,4 @@
-name: Permissions
+name: 04-advanced-features--04-github-permissions
 on:
   workflow_dispatch:
 

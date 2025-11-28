@@ -1,4 +1,4 @@
-name: Environment Variables
+name: 03-core-features--05-environment-variables
 on:
   workflow_dispatch:
 env:
